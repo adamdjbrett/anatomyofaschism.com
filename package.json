@@ -1,6 +1,6 @@
 {
     "homepage": "https://anatomyofaschism.com",
-    "homepage1": "anatomyofaschism.org",
+    "homepage1": "https://anatomyofaschism.org",
     "scripts": {
       "shorten": "netlify-shortener"
     }
