@@ -1,0 +1,7 @@
+{
+    "homepage": "https://anatomyofaschism.com",
+    "homepage1": "anatomyofaschism.org",
+    "scripts": {
+      "shorten": "netlify-shortener"
+    }
+  }
